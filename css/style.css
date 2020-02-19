@@ -408,13 +408,16 @@ ul.address li ul.address-text li {
 	padding: 50px 50px 0;
 }
 
+.work-slider{
+	color: #fff;
+}
+/* 
 .work-info h4 {
 	font-size: 15px;
 	background: #FF9800;
 	display: inline-block;
 	padding: 12px 30px;
-	/*-- w3ls --*/
-	/*-- agileits --*/
+
 	color: #fff;
 	position: relative;
 	margin-right: 13px;
@@ -445,8 +448,7 @@ ul.address li ul.address-text li {
 	-webkit-transform: rotate(180deg);
 	-moz-transform: rotate(180deg);
 	transform: rotate(180deg);
-	/*-- w3layouts --*/
-	/*-- agileits --*/
+
 	-o-transform: rotate(180deg);
 	-ms-transform: rotate(180deg);
 }
@@ -457,7 +459,7 @@ ul.address li ul.address-text li {
 	letter-spacing: 0.5px;
 	line-height: 30px;
 	text-align: left;
-}
+} */
 
 /*-- Progress-Bar --*/
 
