@@ -633,25 +633,18 @@ p.lead {
 	color: #FFF;
 }
 
-.w3lsfooteragileits {
-	margin: 150px 20px 20px;
+.coopyright {
+	margin: 0 auto;
+	color: #fff !important;
+	text-align: center;
 }
 
-.w3lsfooteragileits p {
-	/*-- w3layouts --*/
-	/*-- agileits --*/
+.coopyright p {
 	color: #EEE;
 	line-height: 25px;
+	text-align: center;
 }
 
-.w3lsfooteragileits p a {
-	font-family: 'Montserrat', sans-serif;
-	color: #FFF;
-}
-
-.w3lsfooteragileits p a:hover {
-	color: #000;
-}
 
 /*-- Index-Page-Styling --*/
 
