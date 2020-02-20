@@ -410,8 +410,15 @@ ul.address li ul.address-text li {
 
 .work-slider{
 	color: #fff;
+	width: 500px;/*ширина слайда*/
+	margin: 20px auto;
 }
-/* 
+
+
+
+
+
+ 
 .work-info h4 {
 	font-size: 15px;
 	background: #FF9800;
@@ -459,7 +466,7 @@ ul.address li ul.address-text li {
 	letter-spacing: 0.5px;
 	line-height: 30px;
 	text-align: left;
-} */
+} 
 
 /*-- Progress-Bar --*/
 
